@@ -1,0 +1,22 @@
+[
+    {
+        "id": "3",
+        "name": "Hill",
+        "description": "Think Rich",
+        "isbn": "223-445",
+        "page_count": 45,
+        "issued": false,
+        "author": "Napoleon",
+        "year": 1997
+    },
+    {
+        "id": "2",
+        "name": "kojo",
+        "description": "Think",
+        "isbn": "223-556",
+        "page_count": 34,
+        "issued": true,
+        "author": "kilo",
+        "year": 2020
+    }
+]
